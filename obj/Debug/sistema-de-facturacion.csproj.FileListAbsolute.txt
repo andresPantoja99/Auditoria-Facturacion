@@ -1,0 +1,126 @@
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\bin\Debug\sistema-de-facturacion.exe.config
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\bin\Debug\sistema-de-facturacion.exe
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\bin\Debug\sistema-de-facturacion.pdb
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Clientes.AgregarCliente.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Clientes.ConsultarCliente.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Estadísticas.VentasPeriodo.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Estimados.Proforma.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Estimados.VerProforma.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Facturacion.Facturas.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Facturacion.VerFactura.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Inventarios.Inventario.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Inventarios.VerInventario.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Login.IngresoAlSistema.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Parámetros.Parametro.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Principal.InterfazInicial.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Properties.Resources.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Proveedores.AgregarProveedor.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Proveedores.ConsultarProveedor.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Usuarios.AgregarUsuario.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Usuarios.ConsultarUsuario.resources
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.exe
+C:\Users\PC\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.pdb
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\bin\Debug\sistema-de-facturacion.exe.config
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\bin\Debug\sistema-de-facturacion.exe
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\bin\Debug\sistema-de-facturacion.pdb
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csprojAssemblyReference.cache
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Clientes.AgregarCliente.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Clientes.ConsultarCliente.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Estadísticas.VentasPeriodo.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Estimados.VerProforma.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Facturacion.Facturas.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Facturacion.VerFactura.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Inventarios.Inventario.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Inventarios.VerInventario.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Login.IngresoAlSistema.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Parámetros.Parametro.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Principal.InterfazInicial.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Properties.Resources.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Proveedores.AgregarProveedor.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Proveedores.ConsultarProveedor.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Usuarios.AgregarUsuario.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Usuarios.ConsultarUsuario.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csproj.GenerateResource.cache
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csproj.CoreCompileInputs.cache
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.exe
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.pdb
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Categoría.AgregarCategoria.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Categoría.ConsultarCategoria.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csproj.ResolveComReference.cache
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Ayuda.ManualDeUsuario.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Form1.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Estimados.Proformas.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\bin\Debug\SecuGen.FDxSDKPro.Windows.dll
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Huella.Huellas.resources
+C:\Users\Ronny\Documents\Aplicaciones en Ambientes Propietarios\Proyecto Ver. 2\sistema-de-facturacion\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csproj.CopyComplete
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csprojAssemblyReference.cache
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csproj.ResolveComReference.cache
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.exe
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.pdb
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Ayuda.ManualDeUsuario.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Categoría.AgregarCategoria.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Categoría.ConsultarCategoria.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Clientes.AgregarCliente.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Clientes.ConsultarCliente.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Estadísticas.VentasPeriodo.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Estimados.Proformas.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Estimados.VerProforma.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Facturacion.Facturas.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Facturacion.VerFactura.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Form1.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Huella.Huellas.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Inventarios.Inventario.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Inventarios.VerInventario.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Login.IngresoAlSistema.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Parámetros.Parametro.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Principal.InterfazInicial.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Properties.Resources.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Proveedores.AgregarProveedor.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Proveedores.ConsultarProveedor.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Usuarios.AgregarUsuario.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema_de_facturacion.Usuarios.ConsultarUsuario.resources
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csproj.GenerateResource.cache
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csproj.CoreCompileInputs.cache
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\sistema-de-facturacion.exe.config
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\sistema-de-facturacion.exe
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\sistema-de-facturacion.pdb
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\Polly.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\RestSharp.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\SecuGen.FDxSDKPro.Windows.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\System.Buffers.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\System.Memory.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\UriTemplate.Core.dll
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\Polly.xml
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\RestSharp.xml
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\System.Buffers.xml
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\System.Memory.xml
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.csproj.CopyComplete
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\sistema-de-facturacion.exe.manifest
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\bin\Debug\sistema-de-facturacion.application
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.exe.manifest
+C:\Users\Grupo2\Desktop\Codigo Fuente\sistema-de-facturacion\obj\Debug\sistema-de-facturacion.application
